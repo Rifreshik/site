@@ -1,0 +1,30 @@
+.header{
+    background: #fc0;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 10px;
+    max-height: 72px;
+}
+.con1 container{
+    margin-bottom: 1200px ;
+    min-height: 30px;
+}
+.img {
+    max-height: 256px;
+    max-width: 318px;
+}
+.down{
+    background: black;
+}
+.hr {
+    border: none;
+    background-color: red;
+    color: white;
+    height: 2px;
+}
+.line{
+    border-bottom: 5px solid #f00;
+}
+.rek{
+    max-width: 135px;
+    max-height: 80px;
+}
